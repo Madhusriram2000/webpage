@@ -1,0 +1,324 @@
+.nice{text-align: center;
+    background-color: #f2f2f2;}
+.nice #nicepage{float: left;}
+.nice #cls{float: right;}
+.nice #table #phone #phnhr{
+    display: flex;
+    justify-content: center;
+}
+.box3 #quam{margin-left: 450px;
+    width:660px; height:95px;
+    font-size: 26px;}
+.box3{
+    text-align: center;
+}
+.box3 #bx{
+    font-size: 65px;
+}
+.box3 #learn{
+    margin-left: 700px;
+    width:130px;
+    height:40px;
+    background-color: orange;
+    color: aliceblue;
+    text-decoration: none;
+    padding-top:10px;
+    align-items: center;
+    margin-top: 5px;
+    
+}
+#learn:hover{
+    background-color:black;
+    color: aliceblue;
+}
+.ig img{
+    width:700px; height: 400px;
+}
+.box4 #net{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size:40px;
+    color: black;
+}
+.emt{
+    width: 100vw;
+    height: 5px;
+    background-color: lightskyblue;
+}
+.bx1{
+    width: 430px;
+    height: 274px;
+}
+.bx1 p{
+    font-size:34px;
+}
+#learn1{
+    width:130px;
+    height:40px;
+    background-color: orange;
+    color: aliceblue;
+    text-decoration: none;
+    padding-top:10px;
+    align-items: center;
+    margin-top: 5px;
+    padding-left: 8px;
+}
+#learn1:hover{
+    background-color:black;
+    color: aliceblue;
+}
+.arct{
+    width: 600px;
+    height: 500px;
+    font-size: 30px;
+    margin-bottom: 100px;
+    background-color: beige;
+    padding: 5px;
+    margin-left: 10px;
+}
+.cnt{
+    display: flex;
+    margin-left: 50px;
+    margin-right: 20px;
+}
+#n1{
+    width: 100px; height: 100px;
+    font-size: 80px;
+    background-color: cornflowerblue;
+    color: aliceblue;
+    margin-left: 25px;
+}
+.p1{
+    margin-left: 20px;
+    margin-top: 80px;
+    width: 400px; height: 100px;
+    font-size: 20px;
+}
+.sm1{
+    display: flex;
+}
+.r1 {
+    margin-top: 80px;
+    width: 700px; height: 100px;
+    font-size: 40px;
+    margin-left: 80px;
+}
+.bigcnt{
+    margin-left: 50px;
+    display: flex;
+}
+.para p{
+    width: 600px; height: 200px;
+    font-size: 22px;
+}
+#n2{
+    width: 100px; height: 100px;
+    font-size: 80px;
+    background-color: cornflowerblue;
+    color: aliceblue;
+    margin-left: 25px;
+}
+.p2{
+    margin-left: 20px;
+    margin-top: 80px;
+    width: 400px; height: 100px;
+    font-size: 20px;
+}
+.sm2{
+    display: flex;
+}
+.img2{
+    margin-top: 90px;
+    margin-left: 220px;
+}
+.bigcnt2{
+    margin-left: 50px;
+    display:flex;
+}
+.cre #c{
+    width: 400px; height: 150px;
+    font-size: 65px;
+}
+.duis p{
+    width: 600px; height: 100px;
+    font-size: 20px;
+    margin-top: 20px;
+}
+.img3{
+    margin-left: 80px;
+}
+.cnt3{
+    margin-left: 50px;
+    display: flex;
+}
+.learn3{width:130px;
+    height:40px;
+    background-color: orange;
+    color: aliceblue;
+    text-decoration: none;
+    padding-top:10px;
+    align-items: center;
+    padding-left: 8px;
+    margin-left: 50px;
+}
+.learn3:hover{
+    background-color:black;
+    color: aliceblue;
+}
+.igcen{
+    margin-top: 100px;
+    margin-left: 500px;
+}
+#ad{text-align: center;
+    border-radius: 30px;
+    height: 200px;width: 200px;
+    background-color: rgb(205, 208, 210);
+}
+#ad p{ font-size: 20px;}
+#tl{text-align: center;
+    border-radius: 30px;
+    height: 200px;width: 200px;
+    background-color: rgb(205, 208, 210);
+}
+#tl p{font-size: 20px;}
+#pl{text-align: center;
+    border-radius: 30px;
+    height: 200px;width: 200px;
+    background-color: rgb(205, 208, 210);
+}
+#pl p{font-size: 20px;}
+#sg{text-align: center;
+    border-radius: 30px;
+    height: 200px;width: 200px;
+    background-color: rgb(205, 208, 210);
+}
+#sg p{font-size: 20px;}
+.bs1{margin-left: 60px;}
+.bs2{margin-left: 60px;}
+.bs3{margin-left: 60px;}
+.bs4{margin-left: 60px;}
+.bxs{
+    margin-top: 50px;
+    display: flex;
+}
+.bbcnt{background-color: #f1f6fd;}
+.adimg img{
+    width: 150px;height: 150px;
+    border-radius: 75px;
+    background-size:cover ;
+}
+.adam{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    margin-top: 20px;
+    color: black;
+    margin-left: 180px;
+    width: 250px;
+    height: 350px;
+}
+.limg img{
+    width: 150px;height: 150px;
+    border-radius: 75px;
+    background-size:cover ;
+}
+.linda{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    border: 1px white;
+    border-radius: 50px;
+    background-color: orange;
+    margin-top: 20px;
+    color: black;
+    margin-left: 15px;
+    width: 250px;
+    height: 350px;
+}
+.maryimg img{
+    width: 150px;height: 150px;
+    border-radius: 75px;
+    background-size:cover ;
+}
+.marry{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    margin-top: 20px;
+    color: black;
+    margin-left:10px;
+    width: 250px;
+    height: 350px;
+}
+.imgbx{
+    width:1160px;height: 550px;
+    margin-top: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.info{
+    margin-left: 450px;
+    width:940px;height: 65px;
+    font-size: 59px;
+}
+.paragraph{
+    margin-top: 50px;
+    margin-left: 250px;
+    width: 940px;height: 65px;
+    font-size: 35px;
+}
+.corlla{
+    margin-left: 55px;
+    margin-top: 80px;
+    font-size: 46px;
+    width: 130px; height: 25px;
+}
+.benz{ margin-top: 80px; margin-left: 240px;
+    font-size: 46px;
+    width: 130px; height: 25px;
+}
+.evga{ margin-top: 80px; margin-left: 280px;
+    font-size: 36px;
+    width: 130px; height: 25px;
+}
+.tesla{ margin-top: 80px; margin-left: 200px;
+    font-size: 46px;
+    width: 130px; height: 25px;
+}
+.spns{
+    display: flex;
+}
+.bluebox{
+    width: 1560px;
+    height: 410px;
+    display: flex;
+    flex-direction: column;
+    background-color: #78acea;
+    color: #f1f6fd;
+}
+.form3 #submitbutton{
+    font-size: 20px;
+    border: none;
+    width:680px;height:35px; 
+    background-color: orange;color: #f1f6fd;
+}
+#submitbutton:hover{background-color: orange;color: #f1f6fd;}
+.form1 #emailbox{
+    border: none;
+}
+.form2 #namebox{
+    border: none;
+}
+.forms{
+    margin-left: 400px;
+    width:700px;height: 630px;
+    display:flex;
+    flex-direction:column;
+}
+.forms h1{margin-left: 200px;
+    font-size: 55px; 
+    font-family:serif;
+}
+.hr1{width: 800px; height: 2px; background-color: black;}
+.hr2{width: 800px; height: 2px; background-color: black;}
+.lastimg img{
+    margin-left: 480px;
+    width:460px;height: 360px;
+}
